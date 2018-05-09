@@ -5,4 +5,5 @@ public class Employee {
 	String empName;
 	double sallary;
 	String ligh;
+	String "i love my india";
 }
