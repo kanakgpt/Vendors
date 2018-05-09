@@ -5,6 +5,6 @@ public class Employee {
 	String empName;
 	double sallary;
 	String addrs;
-	
+	String EmployeeChildres;
 	
 }
