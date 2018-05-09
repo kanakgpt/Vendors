@@ -6,5 +6,5 @@ public class Employee {
 	double sallary;
 	String addrs;
 	String EmployeeChildres;
-	
+	String go;
 }
